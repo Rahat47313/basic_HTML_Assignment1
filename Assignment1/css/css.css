@@ -1,0 +1,46 @@
+/* .text{
+    font-size: large;
+} */
+.rectangle-week{
+    display: inline; 
+    background-color: #f3f4f5;
+    padding: 10px;
+    border-radius: 7px;
+}
+.rectangle-slide{
+    display: inline; 
+    background-color: #c4b5fd;
+    padding: 10px;
+    margin-right: 15px;
+    border-radius: 7px;
+}
+.rectangle-starter{
+    display: inline; 
+    background-color: #93c5fd;
+    padding: 10px;
+    margin-right: 15px;
+    border-radius: 7px;
+}
+.rectangle-checkoff{
+    display: inline; 
+    background-color: #fda5a5;
+    padding: 10px;
+    margin-right: 15px;
+    border-radius: 7px;
+}
+.rectangle-solution{
+    display: inline; 
+    background-color: #86efac;
+    padding: 10px;
+    margin-right: 15px;
+    border-radius: 7px;
+}
+.margin-left{
+    margin-left:50px
+}
+.margin-left-blocks{
+    margin-left:130px
+}
+body{
+    font-family: sans-serif;
+}
